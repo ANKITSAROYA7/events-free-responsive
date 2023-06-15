@@ -669,6 +669,10 @@ button:hover {
         grid-column: 2/3;
     }
 
+    .font-size-md{
+        font-size: 25px;
+    }
+
   
 
 }
